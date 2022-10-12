@@ -10,6 +10,5 @@ Generate a customizable report containing the generated Tree plot and several ad
   Use the built-on function of generating random tree data for testing purposes or if there is no dataset available to you.
   
   # 1.2 Import Tree Dataset
-  
-##  Sequencing Part is still in work and is not yet included!  ##
+  ...to be continued
   
