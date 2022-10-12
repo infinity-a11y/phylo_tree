@@ -4,6 +4,10 @@
 Shiny-Interface for inferring a customizable Phylogenetic Tree from either Sequencing Data (Pipeline) or other output formats (BEAST, MrBayes, etc.).
 Generate a customizable report containing the generated Tree plot and several additional parameters. 
 
+Using the app in the browser window is recommended.
+To view the Shiny-Interface in external change following settings in RStudio.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 # 1 Importing Data
   
   # 1.1 Generate Random Tree
