@@ -8,6 +8,7 @@ Generate a customizable report containing the generated Tree plot and several ad
 
 Using the app in the browser window is recommended.
 To view the Shiny-Interface in external change following settings in RStudio.
+
 ![alt text](https://github.com/infinity-a11y/phylo_tree/blob/main/readme.png)
 
 
