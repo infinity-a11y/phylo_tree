@@ -21,5 +21,12 @@ To view the Shiny-Interface in external change following settings in RStudio.
   Use the built-on function of generating random tree data for testing purposes or if there is no dataset available to you.
   
   # 1.2 Import Tree Dataset
-  ...to be continued
+  The folder 'extdata' contains examplary datasets in different tree formats. Upload one file, select the corresponding format and press the 'parse' button
+  If parsing was successful a message appears accordingly.
+  
+  
+# 2 Visualization
+   
+   # 2.1 
+   to be continued .....
   
