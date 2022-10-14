@@ -1,8 +1,8 @@
 ![PhyloTree](https://user-images.githubusercontent.com/115372379/194724253-723baff7-d091-45d3-acdc-8330f91e428b.jpg)
 # PhyloTree
 
-Shiny-Interface for inferring a customizable Phylogenetic Tree from either Sequencing Data (Pipeline) or other output formats (BEAST, MrBayes, etc.).
-Generate a customizable report containing the generated Tree plot and several additional parameters. 
+Shiny-Interface for inferring a customizable phylogenetic tree from either an integrated NGS pipeline (not available yet) or other output formats (BEAST, MrBayes, etc.).
+Generate a customizable report containing the generated tree plot and several additional parameters. 
 
 
 Only download 'phylo_tree_github.zip' for running the app and launch 'phylo_tree_12.10.22' .
