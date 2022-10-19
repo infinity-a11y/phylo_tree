@@ -1,5 +1,5 @@
 ![PhyloTree](https://user-images.githubusercontent.com/115372379/194724253-723baff7-d091-45d3-acdc-8330f91e428b.jpg)
-# PhyloTree
+# PhyloTree Version A.1.2
 
 Shiny-Interface for inferring a customizable phylogenetic tree from either an integrated NGS pipeline (not available yet) or other output formats (BEAST, MrBayes, etc.).
 Generate a customizable report containing the generated tree plot and several additional parameters. 
