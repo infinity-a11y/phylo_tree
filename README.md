@@ -11,7 +11,7 @@
   
   Download *phylo_tree_github.zip* and extract it to any location on the computer (*important: unzip the zip file before starting the app!*). 
   Open *PhyloTree___.R*.
-  To start the app from RStudio click the small arrow right next to *Run App* and change the settings as shown below (recommended).
+  To start the app from RStudio click the small arrow right next to *Run App* and change the settings as shown below.
 
   ![alt text](https://github.com/infinity-a11y/phylo_tree/blob/main/readme.png)
 
