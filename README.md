@@ -5,9 +5,6 @@ Shiny-Interface for inferring a customizable phylogenetic tree from either an in
 Generate a customizable report containing the generated tree plot and several additional parameters. 
 
 
-Only download 'phylo_tree_github.zip' for running the app and launch 'phylo_tree_12.10.22' .
-
-
 Using the app in the browser window is recommended.
 To view the Shiny-Interface in external change following settings in RStudio.
 
