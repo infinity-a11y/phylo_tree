@@ -1,4 +1,5 @@
-# PhyloTree Version A.1.2
+# PhyloTree 
+  Version A.1.2
 
   ![PhyloTree](https://user-images.githubusercontent.com/115372379/194724253-723baff7-d091-45d3-acdc-8330f91e428b.jpg)
 
@@ -8,9 +9,9 @@
 
 # 1 How to run PhyloTree
   
-  Download *phylo_tree_github.zip* and extract it to any location on the computer (*important: first unzip the file!*). 
+  Download *phylo_tree_github.zip* and extract it to any location on the computer (*important: unzip the zip file before starting the app!*). 
   Open *PhyloTree___.R*.
-  To run the app in the browser change following settings in RStudio (recommended).
+  To run the app in the browser change the settings in RStudio as shown below (recommended).
 
   ![alt text](https://github.com/infinity-a11y/phylo_tree/blob/main/readme.png)
 
